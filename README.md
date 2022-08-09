@@ -1,2 +1,2 @@
 # SearchBar
-# A basic resposnsive working search bar
+## This is basic responsive working search bar
